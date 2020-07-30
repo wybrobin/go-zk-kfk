@@ -1,9 +1,6 @@
 package zkkfk
 
 import (
-	"github.com/samuel/go-zookeeper/zk"
+//	"github.com/Shopify/sarama"
 )
 
-type Conn struct {
-	zkConn *zk.Conn
-}
